@@ -93,7 +93,7 @@
     "nombre": "Gorra Goku",
     "precio": 9500,
     "stock": 5,
-    "imagen": "imagenes/Gorragoku.webp"
+    "imagen": "imagenes/gorragoku.webp"
   },
   {
     "tipo": "gorra",
