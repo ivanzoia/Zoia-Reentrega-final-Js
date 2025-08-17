@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Formulario de Compra - Juemix</title>
+   <link rel="stylesheet" href="./style.css">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+</head>
+<body>
+<div class="form-container">
+    <h1 class="for.tit">Gracias por comprar en JUEMIX</h1>
+    <div id="resumenPedido" class="resumen-pedido"></div>
+
+    <form id="compraForm">
+        <label for="nombre">Nombre completo</label>
+        <input type="text" id="nombre" required>
+
+        <label for="email">Correo electrónico</label>
+        <input type="email" id="email" required>
+
+        <label for="direccion">Dirección</label>
+        <textarea id="direccion" rows="2" required></textarea>
+
+        <button type="submit">Enviar pedido</button>
+    </form>
+</div>
+
+<script src="formulario.js"></script>
+</body>
+</html>

@@ -1,0 +1,126 @@
+[
+  {
+    "tipo": "remera",
+    "nombre": "Lionel Hutz",
+    "precio": 23000,
+    "colores": [
+      { "nombre": "Negra", "imagen": "imagenes/LionelNg.webp", "stock": 10 },
+      { "nombre": "Blanca", "imagen": "imagenes/LionelBl.webp", "stock": 10 },
+      { "nombre": "Roja", "imagen": "imagenes/LionelRo.webp", "stock": 10 },
+      { "nombre": "Gris", "imagen": "imagenes/LionelGr.webp", "stock": 10 }
+    ]
+  },
+   {
+    "tipo": "remera",
+    "nombre": "El Gran Bart",
+    "precio": 23000,
+    "colores": [
+      { "nombre": "Negra", "imagen": "imagenes/BartNg.webp", "stock": 10 },
+      { "nombre": "Blanca", "imagen": "imagenes/BartBl.webp", "stock": 10 },
+      { "nombre": "Roja", "imagen": "imagenes/BartRj.webp", "stock": 10 },
+      { "nombre": "Azul", "imagen": "imagenes/BartAz.webp", "stock": 10 }
+    ]
+  },
+   {
+    "tipo": "remera",
+    "nombre": "Lisa Floreda",
+    "precio": 23000,
+    "colores": [
+      { "nombre": "Negra", "imagen": "imagenes/LisaNg.webp", "stock": 10 },
+      { "nombre": "Blanca", "imagen": "imagenes/LisaBl.webp", "stock": 10 },
+      { "nombre": "Azul", "imagen": "imagenes/LisaAz.webp", "stock": 10 },
+      { "nombre": "Gris", "imagen": "imagenes/LisaGR.webp", "stock": 10 }
+    ]
+  },
+   {
+    "tipo": "remera",
+    "nombre": "Plankton",
+    "precio": 23000,
+    "colores": [
+      { "nombre": "Negra", "imagen": "imagenes/PlanktonNg.webp", "stock": 10},
+      { "nombre": "Blanca", "imagen": "imagenes/PlancktonBl.webp", "stock": 10 }
+    ]
+  },
+   {
+    "tipo": "remera",
+    "nombre": "Peces del Infierno",
+    "precio": 23000,
+    "colores": [
+      { "nombre": "Negra", "imagen": "imagenes/PecesNg.webp", "stock": 10 },
+      { "nombre": "Blanca", "imagen": "imagenes/PecesBl.webp", "stock": 10 },
+      { "nombre": "Roja", "imagen": "imagenes/PecesRj.webp", "stock": 10 },
+      { "nombre": "Gris", "imagen": "imagenes/pecesGr.webp", "stock": 10 },
+      { "nombre": "Azul", "imagen": "imagenes/PecesAZ.webp", "stock": 10 }
+    ]
+  },
+  {
+    "tipo": "taza",
+    "nombre": "Taza Regina PHALANGE",
+    "precio": 10000,
+    "stock": 5,
+    "imagen": "imagenes/TAZAREGINA.webp"
+  },
+  {
+    "tipo": "taza",
+    "nombre": "Taza Pez 3 Ojos",
+    "precio": 10000,
+    "stock": 5,
+    "imagen": "imagenes/taza peces 3 ojos.webp"
+  },
+  {
+    "tipo": "taza",
+    "nombre": "Taza Personalizada",
+    "precio": 10000,
+    "stock": 5,
+    "imagen": "imagenes/TAZA JUEMIX.webp"
+  },
+  {
+    "tipo": "taza",
+    "nombre": "Taza Mascota 1",
+    "precio": 10000,
+    "stock": 5,
+    "imagen": "imagenes/Taza 1.webp"
+  },
+  {
+    "tipo": "taza",
+    "nombre": "Taza Mascota 2",
+    "precio": 10000,
+    "stock": 5,
+    "imagen": "imagenes/Taza 2.webp"
+  },
+  {
+    "tipo": "gorra",
+    "nombre": "Gorra Goku",
+    "precio": 9500,
+    "stock": 5,
+    "imagen": "imagenes/Gorragoku.webp"
+  },
+  {
+    "tipo": "gorra",
+    "nombre": "Gorra Pez de 3 ojos",
+    "precio": 9500,
+    "stock": 5,
+    "imagen": "imagenes/gorrapeces.webp"
+  },
+  {
+    "tipo": "gorra",
+    "nombre": "Gorra Personalizada",
+    "precio": 9500,
+    "stock": 5,
+    "imagen": "imagenes/gorrajuemix.webp"
+  },
+  {
+    "tipo": "gorra",
+    "nombre": "Gorra Mascota 1",
+    "precio": 9500,
+    "stock": 5,
+    "imagen": "imagenes/Gorra 2.webp"
+  },
+  {
+    "tipo": "gorra",
+    "nombre": "Gorra Mascota 2",
+    "precio": 9500,
+    "stock": 5,
+    "imagen": "imagenes/Gorra 3.webp"
+  }
+]

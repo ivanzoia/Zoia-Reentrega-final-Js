@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juemix</title>
+    <link rel="stylesheet" href="./style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+ 
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+</head>
+<body>
+  <header>
+    <div style="display:flex; align-items:center; padding:10px;">
+      <img src="./imagenes/isologo juemix.webp" alt="Logo Juemix" height="70">
+    </div>
+    <div class="carrito" id="iconoCarrito" data-count="0">🛒</div>
+  </header>
+
+  <main>
+    <div class="grid" id="productos"></div>
+
+    <div id="miniResumen">
+      <h3>Resumen</h3>
+      <ul id="listaPedido"></ul>
+      <p><strong>Total:</strong> $<span id="totalPedido">0</span></p>
+      <button class="btn" id="btnFinalizar">Finalizar compra</button>
+    </div>
+  </main>
+
+  <script src="./main.js"></script>
+</body>
+</html>
